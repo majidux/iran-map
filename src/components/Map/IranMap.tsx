@@ -95,6 +95,7 @@ export const IranMap = (props: IranMapType) => {
                   d={province.d}
                   onMouseOver={() => {
                     handleHoverProvince(province);
+
                   }}
                   onMouseLeave={() => {
                     handleHoverProvince({ name: '', id: 0 });
