@@ -113,17 +113,17 @@
 }
 
 .cities {
-  direction: ltr;
-  position: fixed;
-  top: 15%;
-  right: 30%;
-  bottom: 5%;
-  left: 30%;
-  background-color: white;
-  border-radius: 0.7rem;
-  overflow-y: auto;
-  box-shadow: rgba(0, 0, 0, 0.56) 0px 22px 70px 4px;
-  z-index: 999999;
+  //direction: ltr;
+  position: absolute;
+  //top: 15%;
+  //right: 30%;
+  //bottom: 5%;
+  //left: 30%;
+  //background-color: white;
+  //border-radius: 0.7rem;
+  //overflow-y: auto;
+  //box-shadow: rgba(0, 0, 0, 0.56) 0px 22px 70px 4px;
+  //z-index: 999999;
 }
 
 .cities p {
